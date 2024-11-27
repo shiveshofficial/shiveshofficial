@@ -1,5 +1,3 @@
-
-![Profile Image](https://github.com/user-attachments/assets/48c6b9e2-daef-486f-9513-19f451f9566f) <!-- Replace 'profile.jpg' with your actual profile image file -->
 # 👋 Hii, I'm Shivesh Kushwaha  
 ### 💼 About Me  
 🎓 **MBA Candidate** specializing in **Marketing and Finance**.  
