@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Shivesh Kushwaha  
 
-![Profile Image](profile.jpg) <!-- Replace 'profile.jpg' with your actual profile image file -->
-
+![Profile Image](https://github.com/user-attachments/assets/48c6b9e2-daef-486f-9513-19f451f9566f) <!-- Replace 'profile.jpg' with your actual profile image file -->
+# 👋 Hii, I'm Shivesh Kushwaha  
 ### 💼 About Me  
 🎓 **MBA Candidate** specializing in **Marketing and Finance**.  
 💡 Passionate about **accounting**, **financial management**, and **graphic design**, with a strong focus on technology-driven business solutions.  
@@ -13,7 +12,7 @@
 ## 📊 Skills at a Glance  
 
 ### **Skill Distribution Bar Graph**  
-![Skills Distribution](skills-bar-graph.png)
+![Skills Distribution](https://github.com/user-attachments/assets/5e41658b-be4a-4672-b783-307c24d575b5)
 
 ---
 
