@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivesh Kushwaha  
 
-<!--
-**shiveshofficial/shiveshofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Image](profile.jpg) <!-- Replace 'profile.jpg' with your actual profile image file -->
 
-Here are some ideas to get you started:
+### 💼 About Me  
+🎓 **MBA Candidate** specializing in **Marketing and Finance**.  
+💡 Passionate about **accounting**, **financial management**, and **graphic design**, with a strong focus on technology-driven business solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Based in **Rewa, Madhya Pradesh, India** | 📧 [shivesh.officialwork@gmail.com](mailto:shivesh.officialwork@gmail.com)  
+
+---
+
+## 📊 Skills at a Glance  
+
+### **Skill Distribution Bar Graph**  
+![Skills Distribution](skills-bar-graph.png)
+
+---
+
+## 🛠️ Tools & Technologies  
+| **Skill**               | **Proficiency** |  
+|-------------------------|----------------|  
+| MS Office Suite         | ⭐⭐⭐⭐⭐         |  
+| Tally                   | ⭐⭐⭐⭐☆         |  
+| Graphic Design (Canva)  | ⭐⭐⭐⭐☆         |  
+| Document Preparation    | ⭐⭐⭐⭐⭐         |  
+
+---
+
+## 🎯 Why Choose Me?  
+✅ **Attention to Detail:** Skilled in creating flawless reports and visuals that effectively convey ideas.  
+✅ **Communication Excellence:** Fluent in **English** and **Hindi**, ensuring smooth collaboration with diverse teams.  
+✅ **Adaptable & Quick Learner:** Always up-to-date with the latest tools and trends to deliver exceptional results.  
+✅ **Proactive Problem Solver:** Known for analyzing complex data and presenting actionable insights.
+
+---
+
+## 🌱 Current Goals  
+- Improving skills in **Financial Modeling** and **Digital Marketing.**  
+- Exploring tools like **ChatGPT** for better documantation.  
+
+---
+
+### 🤝 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shiveshofficial)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/shiveshofficial)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shivesh.officialwork@gmail.com)
+
+---
+
+### 🌟 Fun Fact  
+**"The journey to success begins with small, consistent steps. For me, every step towards enhancing my skills is a step closer to my dream role."**
