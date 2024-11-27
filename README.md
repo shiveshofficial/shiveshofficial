@@ -1,4 +1,4 @@
-#Hi, I'm Shivesh Kushwaha  
+# Hi, I'm Shivesh Kushwaha  
 ### 💼 About Me  
 🎓 **MBA Candidate** specializing in **Marketing and Finance**.  
 💡 Passionate about **accounting**, **financial management**, and **graphic design**, with a strong focus on technology-driven business solutions.  
